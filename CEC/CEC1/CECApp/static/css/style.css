@@ -1,0 +1,22 @@
+body
+{
+    text-align:center;
+}
+
+a
+{
+    font-size:30px;
+    color:#70AA20;
+    font-weight:600;
+    text-decoration:none;
+}
+a:hover
+{
+    color:#010020;
+}
+h1
+{
+    font-size:40px;
+    color:orange;
+    font-weight:600;
+}
